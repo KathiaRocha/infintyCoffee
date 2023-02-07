@@ -1,0 +1,11 @@
+Cores
+
+Adobe Color-Extrator de cores
+https://color.adobe.com/pt/create/image
+
+
+cor1 #202626
+cor2 #401F0D
+cor3 #A66E4E
+cor4 #BF9673
+cor5 #F2E5D5

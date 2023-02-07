@@ -1,0 +1,10 @@
+
+Nome:Roboto
+Link:https://fonts.google.com/specimen/Roboto
+
+Nome:DM Serif Display
+Link:https://fonts.google.com/specimen/DM+Serif+Display?category=Serif
+
+
+Nome:Nanum Gothic
+Link:https://fonts.google.com/specimen/Nanum+Gothic?category=Sans+Serif,Monospace
